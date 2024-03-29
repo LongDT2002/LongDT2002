@@ -22,15 +22,15 @@
 
 <div style="display: grid; grid-template-columns: auto auto auto auto auto auto; gap: 10px;padding: 10px;">
   <div style="text-align: center; padding: 20px 0;">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=LongDT205096&show_icons=true&locale=en" alt="LongDT205096" /></p>
+        <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LongDT205096&" alt="LongDT205096" /></p>
   </div>
   
   <div text-align: center; padding: 20px 0;">
-         <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LongDT205096&" alt="LongDT205096" /></p>
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=LongDT205096&show_icons=true&locale=en" alt="LongDT205096" /></p>
   </div>
   
   <div style="text-align: center; padding: 20px 0;">
-    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LongDT205096&show_icons=true&locale=en&layout=donut" alt="LongDT205096" /></p>
+          <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LongDT205096&show_icons=true&locale=en&layout=donut" alt="LongDT205096" /></p>
   </div>
 </div>
 
