@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<ul>
+  <li>🔭 I’m currently working on **Hanoi University of Science and Technology**</li>
+  <li>👨‍💻 All of my projects are available at [title](https://github.com/LongDT205096?tab=repositories)</li>
+</ul>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LongDT205096)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ongDT205096)](https://github.com/anuraghazra/github-readme-stats)
