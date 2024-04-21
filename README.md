@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Long, or Nong, anyway :D</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LongDT205096&label=Profile%20views&color=0e75b6&style=flat"
-        alt="LongDT205096" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LongDT2002&label=Profile%20views&color=0e75b6&style=flat"
+        alt="LongDT2002" /> </p>
 
-<p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=LongDT205096" alt="LongDT205096" /></a> </p>
+<p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=LongDT2002" alt="LongDT2002" /></a> </p>
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJhbjAweW42Mm4yeHhmbmhxYm85MzU5emh6dDZmNG0yYTh3N3htYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="350">
 
 - 🔭 I’m currently working on **Hanoi University of Science and Technology**
 
 - 🌱 I’m currently learning **Nodejs, Nextjs,...**
 
-- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/LongDT205096?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/LongDT2002?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,15 +22,15 @@
 
 <div style="display: grid; grid-template-columns: auto auto auto auto auto auto; gap: 10px;padding: 10px;">
   <div style="text-align: center; padding: 20px 0;">
-        <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LongDT205096&" alt="LongDT205096" /></p>
+        <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LongDT2002&" alt="LongDT2002" /></p>
   </div>
   
   <div text-align: center; padding: 20px 0;">
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=LongDT205096&show_icons=true&locale=en" alt="LongDT205096" /></p>
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=LongDT2002&show_icons=true&locale=en" alt="LongDT2002" /></p>
   </div>
   
   <div style="text-align: center; padding: 20px 0;">
-          <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LongDT205096&show_icons=true&locale=en&layout=donut" alt="LongDT205096" /></p>
+          <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LongDT2002&show_icons=true&locale=en&layout=donut" alt="LongDT2002" /></p>
   </div>
 </div>
 
